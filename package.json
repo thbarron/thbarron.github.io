@@ -4,12 +4,11 @@
   "description": "Portfolio Website",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o css/ --recursive"
   },
   "author": "Tyree Barron",
   "license": "ISC",
   "dependencies": {
-    "hoek": "^5.0.3",
     "node-sass": "^4.9.2"
   }
 }
